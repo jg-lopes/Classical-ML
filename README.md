@@ -14,7 +14,7 @@ K-means, Agglomerative Clustering, DBSCAN, elbow method for parameter tuning
 
 ## 2. Classification
 
-Logistic Regression, AUC (Area Under Curve), LDA (Linear Discriminant Analysis), Support Vector Machines, Kernels, Voting Classifier.
+Logistic Regression, AUC (Area Under Curve), LDA (Linear Discriminant Analysis), Support Vector Machines, Kernels, Voting Classifier
 
 **Application:** Bank marketing data
 
@@ -28,7 +28,7 @@ Non-negative Matrix Factorization under random and NNSVD initialization
 
 ## 4. Gaussian Mixture Models (GMM)
 
-Implementation of the Expectation-Maximization algorithm from scratch enabling the creation of GMMs
+Implementation of the Expectation-Maximization (EM) algorithm from scratch enabling the creation of GMMs
 
 **Application 1:** Sex detection from weight distribution (toy example)
 
