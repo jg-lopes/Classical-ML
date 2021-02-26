@@ -2,7 +2,7 @@
 
 Exercises for a vast variety of classical ML techniques (i.e. Hierarchical Clustering, NMF, EM and many others)
 
-These exercises were made in collaboration with Damien Chambon
+These exercises were made in collaboration with [Damien Chambon](https://github.com/damienchambon)
 
 The main topics approached in each of the files are the following:
 
