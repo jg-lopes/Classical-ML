@@ -1,6 +1,6 @@
 # Classical ML exercises
 
-Exercises for a vast variety of classical ML techniques (i.e. Hierarchical Clustering, NMF, EM etc.)
+Exercises for a vast variety of classical ML techniques (i.e. Hierarchical Clustering, NMF, EM and many others)
 
 These exercises were made in collaboration with Damien Chambon
 
